@@ -3,24 +3,22 @@
 
 < p align="left"> <img src="https://komarev.com/ghpvc/?username=neontox&label=Profile%20views&color=0e75b6&style=flat" alt="neontox" /> </p>
 
-<p align= "sol"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username= neontox" alt="neontox" /></a> </p>
+<p align= "sol"> <a href="https://twitter.com/realblackneo" target="blank"><img src="https://img.shields.io/twitter/follow/realblackneo?logo=twitter&style= for-the-badge" alt="realblackneo" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/realblackneo" target="blank"><img src= "https://img.shields.io/twitter/follow/realblackneo?logo=twitter&style=for-the-badge" alt="realblackneo" /></a> </p>
-
-- 🔭 Şu anda [Aykun_Restorant](https://github) üzerinde çalışıyorum .com/neontox/Aykun_Restorant)
+- 🔭 Şu anda [Aykun_Restorant](https://github.com/neontox/Aykun_Restorant)
 
 - 🌱 Şu anda **C# kursu** öğreniyorum
 
 - 🤝 **C# veya HTML,CSS** konusunda yardım arıyorum
 
-- 📫 Bana nasıl ulaşabilirsiniz **aykuneray34@gmail.com**
+- 📫 Bana nasıl ulaşabilirsiniz **aykuneray34@gmail.com **
 
 - ⚡ Eğlenceli gerçek **Bilgisayarda çok zaman geçiriyorum**
 
 <h3 align="left">Benimle bağlantı kurun:</h3>
 <p align="left">
-<a href="https://twitter.com/ realblackneo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter. svg" alt="realblackneo" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/eray aykun" target="blank"><img hizala ="merkez" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eray aykun" height="30" width="40" /> </a>
+<a href="https:// twitter.com/realblackneo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ Social/twitter.svg" alt="realblackneo" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/eray aykun" target="blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eray aykun" yükseklik="30" genişlik="40" /></a>
 <a href="https://stackoverflow.com/users/users/22105360" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile -readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="users/22105360" height="30" width="40" /></a> <a href="
 https ://instagram.com/realblackneo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images /icons/Social/instagram.svg" alt="realblackneo" height="30" width="40" /></a>
 <a href="https://discord.gg/metaliseviyorum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/ discord.svg" alt="metaliseviyorum" height="30" width="40" /></a>
